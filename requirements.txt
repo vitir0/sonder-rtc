@@ -1,5 +1,2 @@
-aiohttp>=3.8.0
-gunicorn>=20.1.0
-python-socketio>=5.7.0
-aiortc>=1.5.0
-pyOpenSSL>=22.0.0
+websockets==12.0
+cryptography==42.0.5
